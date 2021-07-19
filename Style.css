@@ -1,0 +1,141 @@
+HTML {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    background: linear-gradient(#4287f5 0%, #4bf542 100%);
+}
+
+.profile {
+    text-align: center;
+    border-radius: 20px;
+}
+
+#Buster {
+    text-align: center;
+    border-radius: 20px;
+}
+
+#welcome {
+    text-align: center;
+    position: absolute;
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+
+}
+
+#name {
+    text-align: center;
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+    padding: 50px;
+    text-align: center;
+}
+
+.line {
+    text-align: center;
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+p {
+    text-align: center;
+    font-size: 17px;
+}
+
+.parallax-inner {
+
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+}
+
+}
+
+#Profile_pic {
+    text-align: center;
+    font-size: 20px
+}
+
+#contact {
+    text-align: center;
+    background-color: firebrick;
+}
+
+.contact_1a {
+    text-align: center;
+    color: white;
+    text-shadow: none;
+}
+
+.contact_1h3 {
+    text-align: center;
+    display: inline;
+}
+
+#dream {
+    text-align: center;
+    transition: transform .2s;
+    border: 10px solid #GAAABA;
+}
+
+#dream:hover {
+    text-align: center;
+    transform: scale(0.9);
+
+}
+
+#Philo {
+    text-align: center;
+    transition: transform .2s;
+    border: 10px solid #GAAABA;
+}
+
+#Philo:hover {
+    transform: scale(0.9);
+}
+
+#menu {
+    text-align: center;
+    display: inline;
+}
